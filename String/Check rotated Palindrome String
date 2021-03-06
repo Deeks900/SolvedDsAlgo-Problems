@@ -1,3 +1,5 @@
+//Check string is a rotated palindrome
+//Time Complexity: O(N^2)
 #include <iostream>
 #include <string>
 using namespace std;
